@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **ugopeter26@gmail.com**
 
+- ⚡ Fun fact **I solve random Math problems when I'm bored**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
