@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **tektalk API**
 
-- 👨‍💻 All of my projects are available at [https://ndujekwu-ugochukwu.up.railway.app/]([https://ndujekwu-ugo.herokuapp.com/](https://ndujekwu-ugochukwu.up.railway.app/)
+- 👨‍💻 All of my projects are available at [https://ndujekwu-ugochukwu.up.railway.app/](https://ndujekwu-ugochukwu.up.railway.app/)
 
 - 💬 Ask me about **Nodejs, MongoDB**
 
