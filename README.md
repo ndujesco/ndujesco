@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndujesco&label=Profile%20views&color=0e75b6&style=flat" alt="ndujesco" /> </p>
 
-- 🔭 I’m currently working on **tektalk API**
+- 🔭 I’m currently working on **HUELAGE**
 
 - 👨‍💻 All of my projects are available at [https://ndujekwu-ugochukwu.up.railway.app/](https://ndujekwu-ugochukwu.up.railway.app/)
 
-- 💬 Ask me about **Nodejs, MongoDB**
+- 💬 Ask me about **Nodejs, MongoDB, PostgreSQL**
 
 - 📫 How to reach me **ugopeter26@gmail.com**
 
