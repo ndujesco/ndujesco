@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ndujekwu-ugochukwu.up.railway.app/](https://ndujekwu-ugochukwu.up.railway.app/)
 
-- 💬 Ask me about **Nodejs, MongoDB, PostgreSQL**
+- 💬 Ask me about **Nodejs, Nestjs, GraphQL**
 
 - 📫 How to reach me **ugopeter26@gmail.com**
 
