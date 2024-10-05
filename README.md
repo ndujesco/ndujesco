@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **HUELAGE**
 
-- 👨‍💻 All of my projects are available at [https://ndujekwu-ugochukwu.onrender.com/](https://ndujekwu-ugochukwu.onrender.com/)
+- 👨‍💻 All of my projects are available at [https://portfolio-ndujesco.vercel.app/](https://portfolio-ndujesco.vercel.app/)
 
 - 💬 Ask me about **Nodejs, Nestjs, GraphQL**
 
