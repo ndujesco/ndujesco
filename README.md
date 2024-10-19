@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-ndujesco.vercel.app/](https://portfolio-ndujesco.vercel.app/)
 
-- 💬 Ask me about **Nodejs, Nestjs, GraphQL**
+- 💬 Ask me about **Nodejs, Nestjs, GraphQL, Fastapi, Nextjs, Reactjs**
 
 - 📫 How to reach me **ugopeter26@gmail.com**
 
