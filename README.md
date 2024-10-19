@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ugochukwu Ndujekwu.</h1>
-<h3 align="center">A backend developer.</h3>
+<h3 align="center">A fullstack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndujesco&label=Profile%20views&color=0e75b6&style=flat" alt="ndujesco" /> </p>
 
-- 🔭 I’m currently working on **HUELAGE**
+- 🔭 I’m currently working on **Wakter Sam Blog**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-ndujesco.vercel.app/](https://portfolio-ndujesco.vercel.app/)
 
